@@ -149,5 +149,3 @@ O projeto segue as convenções **PEP8** para Python:
 
 
 ---
-
-Desenvolvido com ☕ e Python
