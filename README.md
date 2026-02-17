@@ -4,8 +4,7 @@ Jogo Roguelike desenvolvido em Python com PgZero e POO. Estética Dark Fantasy c
 
 ## 📖 Sobre o Projeto
 
-NOX é um roguelike de exploração de dungeons com atmosfera dark fantasy. O jogador controla um mago que deve enfrentar hordas de criaturas através de três níveis progressivamente desafiadores, culminando em um confronto épico contra um poderoso demônio.
-
+NOX é um roguelike de exploração de dungeons. O jogador controla um mago que deve enfrentar hordas de criaturas através de três níveis progressivamente desafiadores.
 O jogo combina mecânicas clássicas de roguelike com sistema de combate dinâmico, incluindo ataques normais e especiais, sistema de stamina e regeneração de vida ao derrotar inimigos.
 
 ## 🎮 Funcionalidades
@@ -140,7 +139,6 @@ O jogo utiliza Programação Orientada a Objetos com as seguintes classes princi
 O projeto segue as convenções **PEP8** para Python:
 - Nomenclatura clara em inglês para variáveis, funções e classes
 - Indentação de 4 espaços
-- Limite de 100 caracteres por linha (quando possível)
 - Separação lógica de funções e classes
 
 ## 🎵 Créditos de Assets
@@ -149,9 +147,6 @@ O projeto segue as convenções **PEP8** para Python:
 - **Sprites**: Assets customizados e adaptados
 - **Sons e Música**: Audio assets diversos
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins educacionais e portfolio.
 
 ---
 
