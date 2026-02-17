@@ -30,7 +30,7 @@ O jogo combina mecânicas clássicas de roguelike com sistema de combate dinâmi
 ## 📋 Pré-requisitos
 
 ```bash
-Python 3.7+
+Python 3.7+ (pgzero pode ter problemas em python 3.14+)
 PgZero
 ```
 
